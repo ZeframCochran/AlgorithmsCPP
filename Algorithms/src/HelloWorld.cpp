@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Algorithms.cpp
+// Name        : HelloWorld.cpp
 // Author      : Jerod Ewert
 // Version     :
 // Copyright   : No copyright, do as you please.
@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int helloWorld() {
 	cout << "!!!Hello World!!!" << endl;
 	return 0;
 }
